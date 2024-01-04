@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "185909605227",
+    "firebase_url": "https://warshaout-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "warshaout",
+    "storage_bucket": "warshaout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185909605227:android:0ab10ec9c70ab8386f522e",
+        "android_client_info": {
+          "package_name": "com.warshaout.warshaout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185909605227-62gpmdg1l3266k2dc768mtga8tuf0cog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warshaout.warshaout",
+            "certificate_hash": "531c9fc702cd8341622f254d7ffee0099ff18c5e"
+          }
+        },
+        {
+          "client_id": "185909605227-dr6l5bpqo2shonuf616mgf85d428fbom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warshaout.warshaout",
+            "certificate_hash": "333e77fe27ea39129288efc3c7809ed613144a24"
+          }
+        },
+        {
+          "client_id": "185909605227-arnlinckm2l7srsn8mdg52uqu83sedc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiP7M8CYHgTIPPrunBHhHik7usLcoBsWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185909605227-arnlinckm2l7srsn8mdg52uqu83sedc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185909605227-hl2gs45unbasbkoqis5ph153jqr9ab3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.warshaout.warshaout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

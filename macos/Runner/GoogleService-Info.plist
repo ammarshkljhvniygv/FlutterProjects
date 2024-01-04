@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>185909605227-hl2gs45unbasbkoqis5ph153jqr9ab3e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.185909605227-hl2gs45unbasbkoqis5ph153jqr9ab3e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>185909605227-0k3qm9e51ukeuqqo504t0dqbrf88bgv4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuKChmAxVTwpXjq9JfukYUAvvxz4WWwC0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>185909605227</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.warshaout.warshaout</string>
+	<key>PROJECT_ID</key>
+	<string>warshaout</string>
+	<key>STORAGE_BUCKET</key>
+	<string>warshaout.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:185909605227:ios:c9187ebfbd637b056f522e</string>
+	<key>DATABASE_URL</key>
+	<string>https://warshaout-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
